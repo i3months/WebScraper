@@ -10,7 +10,7 @@ Start by creating the functions
 def is_on_list(days,day):
   return (day in days)
 
-def get_x(days, num):
+def get_x(days, num): 
   return days[num]
 
 def add_x(days, day):
